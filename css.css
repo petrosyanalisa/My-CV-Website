@@ -1,0 +1,81 @@
+body {
+	background: radial-gradient(circle, rgba(145,250,78,1) 7%, rgba(81,234,252,1) 100%);
+}
+
+h4 {
+	font-size: 50px;
+	color: green;
+}
+p {
+	
+}
+h3 {
+	color: red;
+}
+.a {
+	color: red;
+	background-color: #f1fb44;
+	box-shadow: 4.5px 9px #ffb800;
+	padding: 10px;
+	margin-left: 100px;
+	margin-right: 875px;
+}
+.j {
+	color: red;
+	background-color: #f1fb44;
+	box-shadow: 4.5px 9px #ffb800;
+	padding: 10px;
+	margin-left: 100px;
+	margin-right: 1080px;
+}
+.t {
+	color: red;
+	background-color: #f1fb44;
+	box-shadow: 4.5px 9px #ffb800;
+	padding: 10px;
+	margin-left: 100px;
+	margin-right: 1125px;
+}
+.d {
+	background: rgb(0,134,255);
+	background: linear-gradient(90deg, rgba(0,134,255,1) 0%, rgba(0,212,255,1) 50%, rgba(0,134,255,1) 100%);
+	color: black;
+	border: 1px solid blue;
+	padding: 1px;
+}
+.d-1 {
+	background: rgb(0,134,255);
+	background: linear-gradient(90deg, rgba(0,134,255,1) 0%, rgba(0,212,255,1) 50%, rgba(0,134,255,1) 100%);
+	color: black;
+	border: 1px solid blue;
+	padding: 1px;
+	margin-right: 200px;
+}
+.d-2 {
+	background: rgb(0,134,255);
+	background: linear-gradient(90deg, rgba(0,134,255,1) 0%, rgba(0,212,255,1) 50%, rgba(0,134,255,1) 100%);
+	color: black;
+	border: 1px solid blue;
+	padding: 1px;
+	margin-right: 1060px;
+}
+.d-3 {
+	background: rgb(0,134,255);
+	background: linear-gradient(90deg, rgba(0,134,255,1) 0%, rgba(0,212,255,1) 50%, rgba(0,134,255,1) 100%);
+	color: black;
+	border: 1px solid blue;
+	padding: 1px;
+	margin-right: 1170px;
+}
+.f {
+	background-color: #aef019;
+	box-shadow: 3px 6px #2d8600;
+	padding: 5px;
+}
+.h {
+	font-size: 20px;
+	margin-left: 100px;
+}
+.k {
+	font-weight: bold;
+}
